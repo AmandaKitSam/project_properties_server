@@ -1,24 +1,20 @@
-# README
+# Project - SAM's Properties
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## By Amanda Sam
 
-Things you may want to cover:
+-------------------------------------------
 
-* Ruby version
+The Back-End of the project: Ruby on Rails
 
-* System dependencies
+-------------------------------------------
 
-* Configuration
+* Database: PostgreSQL
 
-* Database creation
+* Models:
 
-* Database initialization
 
-* How to run the test suite
+-------------------------------------------
 
-* Services (job queues, cache servers, search engines, etc.)
+The Front-End of the project: React
 
-* Deployment instructions
-
-* ...
+-------------------------------------------
