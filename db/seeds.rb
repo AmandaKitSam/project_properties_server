@@ -8,4 +8,4 @@
 
 User.destroy_all
 u1 = User.create :email => 'amanda@ga.co', :password => 'chicken', :password_confirmation => 'chicken', :name => 'Amanda', :location => 'Sydney', :userPhoto => 'https://www.unitedwaynorman.org/sites/unitedwaynorman.org/files/cutepuppy.jpg', :admin => true
-u2 = User.create :email => 'anna@ga.co', :password => 'chicken', :password_confirmation => 'chicken', :name => 'Anna', :location => 'Japan', :userPhoto => 'https://www.unitedwaynorman.org/sites/unitedwaynorman.org/files/cutepuppy.jpg'
+u2 = User.create :email => 'anna@ga.co', :password => 'chicken', :password_confirmation => 'chicken', :name => 'Anna', :location => 'Japan', :userPhoto => 'https://i.pinimg.com/736x/6e/4b/6c/6e4b6c94f1b27ac6917329fac72580b6--tiny-puppies-cute-puppies.jpg'
