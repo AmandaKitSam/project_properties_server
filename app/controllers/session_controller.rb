@@ -9,6 +9,7 @@ class SessionController < ApplicationController
       render :json => user
     else
       flash[:error] = "Invalid email or password"
+      render :json => { error: 'invalid' }
       # redirect_to login_path # don't need this ?
     end
   end
