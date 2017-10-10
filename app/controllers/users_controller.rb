@@ -30,7 +30,7 @@ class UsersController < ApplicationController
       session[:user_id] = @user.id
       render :json => @user
     else
-      render :json => @user.errors
+      render :json => {errors: @user.errors.full_messages.join('\n')}
     end
   end
 
