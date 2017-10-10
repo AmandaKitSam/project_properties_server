@@ -12,9 +12,12 @@ The Back-End of the project: Ruby on Rails
 
 * Models:
 
+Peoject is at the working stage:
 
 -------------------------------------------
 
 The Front-End of the project: React
 
 -------------------------------------------
+
+Please visit the website: https://amandakitsam.github.io/properties_client/#/
