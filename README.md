@@ -12,7 +12,7 @@ The Back-End of the project: Ruby on Rails
 
 * Models:
 
-Peoject is at the working stage:
+Project is at the working stage:
 
 -------------------------------------------
 
