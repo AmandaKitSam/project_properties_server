@@ -2,6 +2,8 @@
 
 ## By Amanda Sam
 
+
+Project is at the working stage:
 -------------------------------------------
 
 The Back-End of the project: Ruby on Rails
@@ -9,10 +11,6 @@ The Back-End of the project: Ruby on Rails
 -------------------------------------------
 
 * Database: PostgreSQL
-
-* Models:
-
-Project is at the working stage:
 
 -------------------------------------------
 
