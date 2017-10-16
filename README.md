@@ -5,6 +5,7 @@
 
 - The project is at the working stage
 
+-------------------------------------------
 
 The Back-End of the project: Ruby on Rails
 
